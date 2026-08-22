@@ -10,14 +10,14 @@ Most of that delivery sits in private organization repos. This account is the pu
 
 **Django (LMS company, concurrent).** Multi-tenant learning platform: provisioning, SSO, bulk sync, certificates, production support for bank clients. Same job includes AI on the product (OpenAI), not only AI in my editor.
 
-**Own products** (separate from the Odoo partner book and from the LMS). Four shipped systems, not one company:
+**Freelance projects** (separate from the Odoo partner book and from the LMS). Shipped work, not a product line I still run:
 
-- **AYO Indonesia** — production CCTV / media recording, processing, and delivery
+- **AYO Indonesia** — production CCTV / media recording, processing, and delivery (handed over)
 - **Wartelsus** — billing and promotions for a telephone facility (tenants, usage, free-call rules)
 - **SSMS / Oneloop** — SMS for Shopify stores (Django)
 - **GSIL (GSI Lab)** — lab booking, including payments
 
-SSMS and GSIL are their own products, not part of Wartelsus.
+SSMS and GSIL were separate projects, not part of Wartelsus.
 
 10+ years putting business systems live, from OpenERP into current Odoo and Django. Remote, UTC+7.
 

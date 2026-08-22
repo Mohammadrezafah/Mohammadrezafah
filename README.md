@@ -1,18 +1,18 @@
 # Mohammad Reza Fahlepi
 
-Senior software engineer. I customize Odoo, take it live, and keep it running.
+Senior software engineer. I ship Odoo for an **Odoo partner** (many live clients, a large share in **Australia**) and, in a separate job, the backend of an **LMS company** whose clients are **banks**.
 
-Most of that work sits in private organization repos, so this account’s public graph understates what I actually ship. This page is the public contact point.
+Most of that delivery sits in private organization repos. This account is the public contact point — the graph here understates the work.
 
 ## What I work on
 
-Odoo ERP: Sales, Inventory, and Accounting customizations; API integrations; data migration and upgrades (including 16→19); production debugging and maintenance; technical documentation. Several implementations at once, remote, hands-on IC.
+**Odoo partner (hands-on IC).** Customize Sales, Inventory, and Accounting; API integrations; data migration and upgrades (including 16→19); production debugging, maintenance, and technical documentation. Several client databases at once, remote. Australian delivery is a regular part of the book, including finance-system integrations. English at working proficiency with those teams.
 
-A separate concurrent line: multi-tenant Django / PostgreSQL LMS.
+**LMS company (concurrent).** Multi-tenant Django / PostgreSQL learning platform. Bank clients: provisioning, SSO, bulk sync, certificates, production support.
 
-I also ship my own products. Those are separate from client Odoo work.
+**Own products** on the side — separate from partner Odoo work and from the LMS.
 
-Remote, UTC+7.
+10+ years from OpenERP into current Odoo. Remote, UTC+7.
 
 ## Tech stack
 
@@ -25,11 +25,11 @@ Remote, UTC+7.
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-Python, PostgreSQL, and JavaScript day to day. Odoo 10–19 (ORM, XML/QWeb, OWL, controllers). Django / Celery on the LMS. REST, JSON-RPC, XML-RPC. Integrations include Xero, Midtrans, Shopify, Magento. Delivery with Git, Linux, Docker, UAT, and go-live. Indonesian native; English at working proficiency.
+Python, PostgreSQL, JavaScript. Odoo 10–19 (ORM, XML/QWeb, OWL, controllers). Django / Celery on the LMS. REST, JSON-RPC, XML-RPC. Integrations include Xero, Midtrans, Shopify, Magento. Git, Linux, Docker, UAT, go-live.
 
 ## Public repos
 
-Small samples, not the client portfolio. I do not treat forks as my work.
+Small samples, not the client book. I do not treat forks as my work.
 
 ## Connect
 

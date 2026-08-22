@@ -10,7 +10,14 @@ Most of that delivery sits in private organization repos. This account is the pu
 
 **LMS company (concurrent).** Multi-tenant Django / PostgreSQL learning platform. Bank clients: provisioning, SSO, bulk sync, certificates, production support.
 
-**Own products** on the side — separate from partner Odoo work and from the LMS.
+**Own products** (separate from the Odoo partner book and from the LMS). Four shipped systems, not one company:
+
+- **AYO Indonesia** — production CCTV / media recording, processing, and delivery
+- **Wartelsus** — billing and promotions for a telephone facility (tenants, usage, free-call rules)
+- **SSMS / Oneloop** — SMS for Shopify stores
+- **GSIL (GSI Lab)** — lab booking, including payments
+
+SSMS and GSIL are their own products, not part of Wartelsus.
 
 10+ years from OpenERP into current Odoo. Remote, UTC+7.
 
